@@ -13,8 +13,7 @@ make
 Execute tests with
 
 ```
- ./smsm_node 2 1 0 778 0.2 0.786 0.01 0.0 0 0 360 180 SKG censi
- ./smsm_node A B C   D   E     F    G   H 0 0   K   L SKG N
+ ./smsm_node A B C D E F G H 0 0 K L SKG N
 ```
 
 where
